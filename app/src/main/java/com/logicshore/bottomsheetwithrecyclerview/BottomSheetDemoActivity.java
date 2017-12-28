@@ -66,7 +66,6 @@ public class BottomSheetDemoActivity extends AppCompatActivity {
                     bottomsheet_showed = false;
                 }
             }
-
             @Override
             public void onSlide(@NonNull View bottomSheet, float slideOffset) {
 
